@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/backg_6"
+    tools:context=".MainActivity6"
+    android:id="@+id/mainLayout"
+    android:orientation="vertical"
+    android:gravity="top"
+    android:layout_centerHorizontal="true"
+    android:layout_centerVertical="true">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="35dp"
+        android:layout_marginTop="145dp"
+        android:layout_marginEnd="35dp"
+        android:layout_marginBottom="35dp"
+        android:fontFamily="@font/bounce_thin"
+        android:paddingStart="20dp"
+        android:paddingTop="10dp"
+        android:paddingBottom="510dp"
+        android:paddingEnd="10dp"
+        android:text="@string/socials"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/linkFb"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/quick_b"
+        android:layout_marginTop="275dp"
+        android:layout_marginStart="150dp"
+        android:text="@string/fblink"
+        android:textColor="@color/dblue"
+        android:textSize="16sp"
+        />
+
+    <TextView
+        android:id="@+id/linkIg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/quick_b"
+        android:layout_marginTop="390dp"
+        android:layout_marginStart="150dp"
+        android:clickable="true"
+        android:text="@string/iglink"
+        android:textColor="@color/dblue"
+        android:textSize="16sp"
+        />
+
+    <TextView
+        android:id="@+id/linkSp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/quick_b"
+        android:layout_marginTop="505dp"
+        android:layout_marginStart="150dp"
+        android:text="@string/splink"
+        android:textColor="@color/dblue"
+        android:textSize="16sp"
+        />
+
+    <Button
+        android:id="@+id/btnBack4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/dpink"
+        android:layout_marginTop="570dp"
+        android:fontFamily="@font/quick_b"
+        android:text="@string/back6"
+        android:textColor="@color/black"
+        android:layout_centerHorizontal="true"/>
+
+</RelativeLayout>

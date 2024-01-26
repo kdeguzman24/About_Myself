@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/backg_3"
+    android:paddingStart="110dp"
+    android:paddingEnd="10dp"
+    android:paddingTop="80dp"
+    android:id="@+id/mainLayout3"
+    tools:context=".MainActivity3"
+    android:layout_gravity="center"
+    android:layout_centerVertical="true"
+    android:layout_centerHorizontal="true">
+
+    <TextView
+        android:paddingStart="10dp"
+        android:paddingEnd="10dp"
+        android:paddingTop="120dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/har"
+        android:text="@string/ff"
+        android:textColor="@color/black"
+        android:layout_centerHorizontal="true"
+        android:textAlignment="center"
+        android:layout_margin="40dp"
+        android:textSize="30sp" />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="20dp"
+        android:fontFamily="@font/hobo"
+        android:text="@string/f1"
+        android:textColor="@color/black"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="318dp"
+        android:textAlignment="center"
+        android:textSize="13sp" />
+
+    <ImageView
+        android:layout_width="120dp"
+        android:layout_height="100dp"
+        android:src="@drawable/pic2"
+        android:layout_marginTop="210dp"
+        android:layout_centerHorizontal="true"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="20dp"
+        android:fontFamily="@font/hobo"
+        android:text="@string/f2"
+        android:textColor="@color/black"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="331dp"
+        android:textSize="13sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="20dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="230dp"
+        android:layout_marginTop="343dp"
+        android:layout_marginEnd="235dp"
+        android:layout_marginBottom="309dp"
+        android:fontFamily="@font/hobo"
+        android:text="@string/f3"
+        android:textColor="@color/black"
+        android:textSize="13sp" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="20dp"
+        android:fontFamily="@font/hobo"
+        android:text="@string/f4"
+        android:textColor="@color/black"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="355dp"
+        android:textSize="13sp" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="20dp"
+        android:fontFamily="@font/hobo"
+        android:text="@string/f42"
+        android:textColor="@color/black"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="367dp"
+        android:textSize="13sp" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="20dp"
+        android:fontFamily="@font/hobo"
+        android:text="@string/f5"
+        android:textColor="@color/black"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="378dp"
+        android:textSize="13sp" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="20dp"
+        android:fontFamily="@font/hobo"
+        android:paddingStart="20dp"
+        android:paddingEnd="5dp"
+        android:text="@string/f6"
+        android:textColor="@color/black"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="389dp"
+        android:textSize="13sp" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="20dp"
+        android:fontFamily="@font/hobo"
+        android:paddingStart="20dp"
+        android:paddingEnd="5dp"
+        android:text="@string/f62"
+        android:textColor="@color/black"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="400dp"
+        android:textSize="13sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="20dp"
+        android:fontFamily="@font/hobo"
+        android:text="@string/f7"
+        android:textColor="@color/black"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="411dp"
+        android:textSize="13sp" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="20dp"
+        android:paddingStart="20dp"
+        android:paddingEnd="5dp"
+        android:fontFamily="@font/hobo"
+        android:text="@string/f8"
+        android:textColor="@color/black"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="423dp"
+        android:textSize="13sp" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="20dp"
+        android:fontFamily="@font/hobo"
+        android:text="@string/f9"
+        android:textColor="@color/black"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="434dp"
+        android:textSize="13sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="20dp"
+        android:text="@string/f12"
+        android:fontFamily="@font/hobo"
+        android:textColor="@color/black"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="445dp"
+        android:textSize="13sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="20dp"
+        android:text="@string/f122"
+        android:fontFamily="@font/hobo"
+        android:textColor="@color/black"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="457dp"
+        android:textSize="13sp" />
+
+    <Button
+        android:id="@+id/btnBack2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="559dp"
+        android:backgroundTint="@color/dpink"
+        android:text="@string/back2"
+        android:textColor="@color/black"
+        android:layout_centerHorizontal="true"/>
+
+</RelativeLayout>

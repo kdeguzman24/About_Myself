@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">About Myself</string>
+
+    <string name="Yes">Yes : )</string>
+    <string name="No">No : (</string>
+    <string name="title">Everything About Myself</string>
+    <string name="question">Do you want to know me?</string>
+
+    <string name="hello">Hello there!</string>
+    <string name="height">Height: 5\'2</string>
+    <string name="bday">Birthday: 01/24/05</string>
+    <string name="intro">Welcome to my first Application!</string>
+    <string name="info">Information about me:</string>
+    <string name="name">Name: Khristine Ann De Guzman</string>
+    <string name="num">Birthdate: 01/24/05</string>
+    <string name="age">Age: 18 yrs old</string>
+    <string name="zs">Zodiac Sign: Aquarius</string>
+    <string name="school">School: University of the East</string>
+    <string name="program">Program: Computer Engineering</string>
+    <string name="religion">Religion:Roman Catholic</string>
+    <string name="status">Status:Single(legit)</string>
+    <string name="hobby">Hobbies:</string>
+    <string name="hobby1">-Listening to music</string>
+    <string name="hobby2">-Playing guitar</string>
+    <string name="hobby3">-Playing games</string>
+    <string name="hobby4">-Watching horror movies</string>
+    <string name="hobby5">-Playing badminton</string>
+
+    <string name="page3">Details</string>
+    <string name="page4">Fun Facts</string>
+    <string name="page5">Fave Music</string>
+    <string name="page6">Socials</string>
+    <string name="back">Back</string>
+    <string name="ext">Exit</string>
+
+    <string name="birth">Birthplace:Sampaloc,Manila</string>
+
+
+    <string name="ff">Fun Facts</string>
+    <string name="f1">I am the youngest in our family.</string>
+    <string name="f2">I am an introverted person.</string>
+    <string name="f3">I hate spiders.</string>
+    <string name="f4">My phobias are arachnophobia</string>
+    <string name="f42">,aerophobia and acrophobia.</string>
+    <string name="f5">I have insomnia.</string>
+    <string name="f6">My favorite midnight snack is sweet </string>
+    <string name="f62">and spicy pancit canton with cheese.</string>
+    <string name="f7">I love to eat spicy foods.</string>
+    <string name="f8">I can\'t eat dinuguan but I like betamax.</string>
+    <string name="f9">I love listenening to music.</string>
+    <string name="f10">My favorite vegetable is squash.</string>
+    <string name="f11">My favorite fruits are longan,</string>
+    <string name="f112">sineguelas and mango.</string>
+    <string name="f12">I can play acoustic/electric guitar</string>
+    <string name="f122">and ukulele.</string>
+    <string name="hobs">Hobbies</string>
+
+    <string name="music">Fave Songs</string>
+    <string name="socials">Socials</string>
+    <string name="list">Playlist</string>
+    <string name="link">Click here to visit a website</string>
+    <string name="back1">Back</string>
+    <string name="back2">Back</string>
+    <string name="back3">Back</string>
+    <string name="back4">Back</string>
+    <string name="back5">Back</string>
+    <string name="back6">Back</string>
+
+    <string name="fblink">
+         <a href="https://www.facebook.com/khrstn.dgzmn24?mibextid=ZbWKwL"> My facebook account. </a>
+    </string>
+
+    <string name="iglink">
+         <a href="https://instagram.com/empingpong_?igshid=OGQ5ZDc2ODk2ZA=="> My instagram account. </a>
+    </string>
+
+    <string name="splink">
+          <a href="https://spotify.link/CLiyVbYs4Db"> My spotify account. </a>
+    </string>
+
+    <string name="pllink">
+         <a href="https://spotify.link/PNH7PAWs4Db"> My Playlist. </a>
+    </string>
+
+
+</resources>

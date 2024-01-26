@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="ppink">#F4C2C2</color>
+    <color name="purple">#C3B1E1</color>
+    <color name="bgreen">#0D98BA</color>
+    <color name ="dpink">#F8C8DC</color>
+    <color name="blue">#B2EDEF</color>
+    <color name ="pred">#FD8A8A</color>
+    <color name="pviolet">#9EA1D4</color>
+    <color name="pgreen">#77DD77</color>
+    <color name ="pyellow">#FDFD96</color>
+    <color name ="pink">#EFB5B1</color>
+    <color name="dblue">#0000FF</color>
+</resources>
